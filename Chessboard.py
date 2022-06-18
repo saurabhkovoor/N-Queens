@@ -157,4 +157,3 @@ class Chessboard:
         # Displays to user final output, which is number of solutions/goal states and total number of actions
         print("\n    All " + str(noOfSolutions) + " solutions were found.")
         print("    Total actions: " + str(Chessboard.actions))
-        print()
